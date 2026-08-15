@@ -28,13 +28,3 @@ I have worked on projects that served thousands of users, built scalable applica
 
 
 
-
-## 🔗 Connect with Me
-
-<div align="center">
-  
-
-[![LinkedIn](https://www.linkedin.com/in/mahmoud-yahia-135492336/)
-
-
-</div>
